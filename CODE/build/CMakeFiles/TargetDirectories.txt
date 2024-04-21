@@ -1,0 +1,3 @@
+/home/zerodrea/workspace/CppStudy/CODE/build/CMakeFiles/calc.dir
+/home/zerodrea/workspace/CppStudy/CODE/build/CMakeFiles/edit_cache.dir
+/home/zerodrea/workspace/CppStudy/CODE/build/CMakeFiles/rebuild_cache.dir

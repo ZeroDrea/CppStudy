@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests.dir/main.cpp.o -o ../opt/tests   -L/home/zerodrea/workspace/CppStudy/CODE/test/../src/lib  -Wl,-rpath,/home/zerodrea/workspace/CppStudy/CODE/test/../src/lib -lcalc 

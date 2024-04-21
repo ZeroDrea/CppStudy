@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/zerodrea/workspace/CppStudy/CODE/src/lib/libcalc.a CMakeFiles/calc.dir/Add.cpp.o CMakeFiles/calc.dir/Div.cpp.o CMakeFiles/calc.dir/Mul.cpp.o CMakeFiles/calc.dir/Sub.cpp.o
+/usr/bin/ranlib /home/zerodrea/workspace/CppStudy/CODE/src/lib/libcalc.a
